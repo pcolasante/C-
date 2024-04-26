@@ -1,0 +1,10 @@
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.RandomNumberFileReader.resources
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.Properties.Resources.resources
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\source\repos\Files\Files\bin\Debug\Files.exe.config
+C:\Users\Paulina\source\repos\Files\Files\bin\Debug\Files.exe
+C:\Users\Paulina\source\repos\Files\Files\bin\Debug\Files.pdb
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.exe
+C:\Users\Paulina\source\repos\Files\Files\obj\Debug\Files.pdb

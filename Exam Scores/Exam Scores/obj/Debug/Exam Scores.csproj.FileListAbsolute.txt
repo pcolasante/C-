@@ -1,0 +1,10 @@
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe.config
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\bin\Debug\Exam Scores.exe
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\bin\Debug\Exam Scores.pdb
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csprojAssemblyReference.cache
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.examScore.resources
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam_Scores.Properties.Resources.resources
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csproj.GenerateResource.cache
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam Scores.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam Scores.exe
+C:\Users\Paulina\source\repos\Exam Scores\Exam Scores\obj\Debug\Exam Scores.pdb

@@ -1,0 +1,10 @@
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\bin\Debug\Making Decisions.exe.config
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\bin\Debug\Making Decisions.exe
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\bin\Debug\Making Decisions.pdb
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making Decisions.csprojAssemblyReference.cache
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making_Decisions.WorkshopSelector.resources
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making_Decisions.Properties.Resources.resources
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making Decisions.csproj.GenerateResource.cache
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making Decisions.exe
+C:\Users\Paulina\source\repos\Making Decisions\Making Decisions\obj\Debug\Making Decisions.pdb

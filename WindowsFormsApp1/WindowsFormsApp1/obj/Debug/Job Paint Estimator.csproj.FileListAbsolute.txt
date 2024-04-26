@@ -1,0 +1,10 @@
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Job Paint Estimator.csprojAssemblyReference.cache
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Job Paint Estimator.csproj.GenerateResource.cache
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Job Paint Estimator.csproj.CoreCompileInputs.cache
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JobPaintEstimator.PaintJobEstimator.resources
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Processing Data Homework.exe.config
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Processing Data Homework.exe
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Processing Data Homework.pdb
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProcessingDataHomework.Properties.Resources.resources
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Processing Data Homework.exe
+C:\2360C\WEEK1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Processing Data Homework.pdb

@@ -1,0 +1,10 @@
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\bin\Debug\Vehicle Purchase.exe.config
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\bin\Debug\Vehicle Purchase.exe
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\bin\Debug\Vehicle Purchase.pdb
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle Purchase.csprojAssemblyReference.cache
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle_Purchase.Form1.resources
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle_Purchase.Properties.Resources.resources
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle Purchase.csproj.GenerateResource.cache
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle Purchase.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle Purchase.exe
+C:\Users\Paulina\source\repos\Vehicle Purchase\Vehicle Purchase\obj\Debug\Vehicle Purchase.pdb
